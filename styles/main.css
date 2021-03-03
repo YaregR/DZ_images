@@ -1,0 +1,20 @@
+
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    margin: 20px 0 20px 0;
+}
+
+.logo svg {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+}
+
+.logo svg .st0:hover {
+
+    fill: black;
+}
